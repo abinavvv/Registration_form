@@ -1,11 +1,12 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/20.-Stellar.png);
+  background-image: url(https://img.freepik.com/free-vector/realistic-style-technology-particle-background_23-2148426704.jpg);
+  background-size: cover;
   text-align: center;
 }
 
 h1 {
-  color: #333;
+  color: black;
 }
 
 .form-container {
